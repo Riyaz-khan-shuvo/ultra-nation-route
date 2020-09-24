@@ -1,0 +1,15 @@
+.country{
+    margin: 25px auto;
+    border: 5px solid red;
+    border-radius: 25px;
+    padding: 25px;
+    width: 555px;
+}
+.country-img{
+    height: 255px;
+    width: auto;
+}
+.country-img img{
+    height: 100%;
+    width:auto;
+}
